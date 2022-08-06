@@ -1,9 +1,4 @@
 ![LinkedIn Banner](https://user-images.githubusercontent.com/103402952/183265424-f5b13d7d-2135-4af7-bf6d-45d6fb5d9f32.png)
-<p align="center">
-<a href="#">
-  <img src="./img/LinkedIn Banner.png"/>
-</a>
-
 
 <h1 align="center">Hi 👋, I'm Cara Bennett</h1>
 <p align="center"> <img src="https://sdk.bitmoji.com/render/panel/5e845383-93bc-40c1-bdde-3574c1b7c810-b3ad5a79-3b8d-4798-91c1-f2888c70a560-v1.png?transparent=1&palette=1"/></p>
