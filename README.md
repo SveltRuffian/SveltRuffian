@@ -1,7 +1,7 @@
 <p align="center">
-<a href="https://#">
   <img src="https://drive.google.com/file/d/1GbAZpQ2_7bJXC-oj7Qwmh2RvEmdmwgJq/view?usp=sharing"/>
-</a>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Cara Bennett</h1>
 <p align="center"> <img src="https://sdk.bitmoji.com/render/panel/9f483c99-decd-40ec-ab71-abad24669942-b3ad5a79-3b8d-4798-91c1-f2888c70a560-v1.png?transparent=1&palette=1"/></p>
