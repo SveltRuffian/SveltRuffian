@@ -12,11 +12,7 @@
 
 - 📫 How to reach me **caranatasha.design@gmail.com**
 
-- ⚡ Fun fact **I referee high school basketball**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🏀 Fun fact **I referee high school basketball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
