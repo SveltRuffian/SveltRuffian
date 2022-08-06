@@ -1,3 +1,4 @@
+![LinkedIn Banner](https://user-images.githubusercontent.com/103402952/183265424-f5b13d7d-2135-4af7-bf6d-45d6fb5d9f32.png)
 <p align="center">
 <a href="#">
   <img src="./img/LinkedIn Banner.png"/>
@@ -14,7 +15,7 @@
 
 - 🏀 Fun fact **I referee high school basketball**
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://codepen.io/@sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sveltruffian" height="30" width="40" /></a>
 <a href="https://dev.to/sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sveltruffian" height="30" width="40" /></a>
