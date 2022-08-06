@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1GbAZpQ2_7bJXC-oj7Qwmh2RvEmdmwgJq/view?usp=sharing"/>
-</p>
+<a href="#">
+  <img src="./img/banner.gif"/>
+</a>
 
 
 <h1 align="center">Hi 👋, I'm Cara Bennett</h1>
