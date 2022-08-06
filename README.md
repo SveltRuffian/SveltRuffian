@@ -1,4 +1,10 @@
+<p align="center">
+<a href="https://#">
+  <img src="./img/banner.gif"/>
+</a>
+
 <h1 align="center">Hi 👋, I'm Cara Bennett</h1>
+<p align="center"> <img src="https://sdk.bitmoji.com/render/panel/9f483c99-decd-40ec-ab71-abad24669942-b3ad5a79-3b8d-4798-91c1-f2888c70a560-v1.png?transparent=1&palette=1"/></p>
 <h3 align="center">A passionate Full-Stack Software Engineer from New Jersey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sveltruffian&label=Profile%20views&color=0e75b6&style=flat" alt="sveltruffian" /> </p>
