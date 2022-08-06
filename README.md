@@ -30,6 +30,6 @@ l5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="htt
 <h2>🏆 Github Stats</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sveltruffian&show_icons=true&locale=en&layout=compact" alt="sveltruffian" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sveltruffian&show_icons=true&locale=en" alt="sveltruffian" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sveltruffian&" alt="sveltruffian" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sveltruffian&show_icons=true&locale=en" alt="sveltruffian" /></p>
