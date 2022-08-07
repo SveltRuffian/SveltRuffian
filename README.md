@@ -4,14 +4,14 @@
 <p align="center"> <img src="https://sdk.bitmoji.com/render/panel/5e845383-93bc-40c1-bdde-3574c1b7c810-b3ad5a79-3b8d-4798-91c1-f2888c70a560-v1.png?transparent=1&palette=1"/></p>
 <h3 align="center">A passionate ❤️‍🔥💻M.E.R.N.-Stack Software Engineer from New Jersey.</h3>
 
-- 🧠 💪🏾I’m currently learning **responsive CSS, JavaScript, & Shopify Development**
-
-- 🤙🏾💬🖥️ How to reach me [**Calendly**](https://calendly.com/professor-bennett/meeting-with-cara-bennett-dev)
-
-- 🏀 Fun fact **I referee high school basketball**
+<p align="center">
+  - 🧠 💪🏾I’m currently learning **responsive CSS, JavaScript, & Shopify Development**
+  - 🤙🏾💬🖥️ How to reach me [**Calendly**](https://calendly.com/professor-bennett/meeting-with-cara-bennett-dev)
+  - 🏀 Fun fact **I referee high school basketball**
+</p>
 
 <h2 align="center">Connect with me:</h2>
-<p align="center">
+
 <a href="https://codepen.io/@sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sveltruffian" height="30" width="40" /></a>
 <a href="https://dev.to/sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sveltruffian" height="30" width="40" /></a>
 <a href="https://twitter.com/sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sveltruffian" height="30" width="40" /></a>
