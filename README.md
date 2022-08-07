@@ -47,8 +47,8 @@
 ***
 
 <h2>🏆 Github Stats</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sveltruffian&show_icons=true&locale=en" alt="sveltruffian" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sveltruffian&theme=dark&show_icons=true&locale=en" style="max-width:100%" alt="sveltruffian" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sveltruffian&" alt="sveltruffian" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sveltruffian&theme=dark&langs_count=10" style="max-width:100%" alt="sveltruffian" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sveltruffian&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" style="max-width:100%" alt="sveltruffian" /></p>
