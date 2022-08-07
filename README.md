@@ -6,10 +6,10 @@
 <h3 align="center">A passionate ❤️‍🔥💻M.E.R.N.-Stack Software Engineer from New Jersey.</h3>
 <h1> </h1>
 
-  - 🧠 💪🏾I’m currently learning **responsive CSS, JavaScript, & Shopify Development**
-  - 🤙🏾💬🖥️ How to reach me [**Calendly**](https://calendly.com/professor-bennett/meeting-with-cara-bennett-dev)
-  - 🤝🏾I routinely offer support to small B.O.B.s
-  - 🏀 Fun fact **I referee high school basketball**
+ <p align="center">🧠 💪🏾I’m currently learning responsive CSS, JavaScript, & Shopify Development</p>
+ <p align="center">🤙🏾💬🖥️ How to reach me <a href="https://calendly.com/professor-bennett/meeting-with-cara-bennett-dev">Calendly</a></p>
+ <p align="center">🤝🏾I routinely offer support to small B.O.B.s</p>
+ <p align="center">🏀 Fun fact I referee high school basketball</p>
 
 ***
 <h2 align="center">Connect with me</h2>
