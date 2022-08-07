@@ -6,7 +6,9 @@
 
 <p align="center">
   - 🧠 💪🏾I’m currently learning **responsive CSS, JavaScript, & Shopify Development**
+  
   - 🤙🏾💬🖥️ How to reach me [**Calendly**](https://calendly.com/professor-bennett/meeting-with-cara-bennett-dev)
+  
   - 🏀 Fun fact **I referee high school basketball**
 </p>
 
