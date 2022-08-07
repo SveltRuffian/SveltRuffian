@@ -1,5 +1,3 @@
-![LinkedIn Banner](https://user-images.githubusercontent.com/103402952/183265424-f5b13d7d-2135-4af7-bf6d-45d6fb5d9f32.png)
-<h1> </h1>
 <h1 align="center">Hello there 👋🏾, I'm Cara!</h1>
 <p align="center"> <a href="https://app.daily.dev/SveltRuffian"><img src="https://api.daily.dev/devcards/699c5639791d40d88e28b72efa47acbf.png?r=uk9" width="200" alt="Cara's Dev Card"/></a></p>
 <h1> </h1>
