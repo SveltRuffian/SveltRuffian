@@ -8,6 +8,7 @@
   - 🤙🏾💬🖥️ How to reach me [**Calendly**](https://calendly.com/professor-bennett/meeting-with-cara-bennett-dev)
   - 🏀 Fun fact **I referee high school basketball**
 
+***
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://codepen.io/@sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sveltruffian" height="30" width="40" /></a>
