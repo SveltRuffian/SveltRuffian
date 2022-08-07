@@ -2,8 +2,9 @@
 <h1> </h1>
 <h1 align="center">Hello there 👋🏾, I'm Cara!</h1>
 <p align="center"> <img src="https://sdk.bitmoji.com/render/panel/5e845383-93bc-40c1-bdde-3574c1b7c810-b3ad5a79-3b8d-4798-91c1-f2888c70a560-v1.png?transparent=1&palette=1"/></p>
+<h1> </h1>
 <h3 align="center">A passionate ❤️‍🔥💻M.E.R.N.-Stack Software Engineer from New Jersey.</h3>
-
+<h1> </h1>
   - 🧠 💪🏾I’m currently learning **responsive CSS, JavaScript, & Shopify Development**
   - 🤙🏾💬🖥️ How to reach me [**Calendly**](https://calendly.com/professor-bennett/meeting-with-cara-bennett-dev)
   - 🏀 Fun fact **I referee high school basketball**
