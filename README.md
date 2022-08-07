@@ -9,7 +9,7 @@
   - 🏀 Fun fact **I referee high school basketball**
 
 <h2 align="center">Connect with me:</h2>
-
+<p align="center">
 <a href="https://codepen.io/@sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sveltruffian" height="30" width="40" /></a>
 <a href="https://dev.to/sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sveltruffian" height="30" width="40" /></a>
 <a href="https://twitter.com/sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sveltruffian" height="30" width="40" /></a>
