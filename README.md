@@ -51,4 +51,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sveltruffian&" alt="sveltruffian" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sveltruffian&show_icons=true&locale=en&layout=compact" alt="sveltruffian" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sveltruffian&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" style="max-width:100%" alt="sveltruffian" /></p>
