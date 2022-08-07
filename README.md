@@ -13,15 +13,15 @@
 ***
 <h2 align="center">Connect with me</h2>
 <p align="center">
-<a href="https://codepen.io/@sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sveltruffian" height="30" width="40" /></a>
-<a href="https://dev.to/sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sveltruffian" height="30" width="40" /></a>
-<a href="https://twitter.com/sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sveltruffian" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/-cara-bennett-dev-professor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cara-bennett-dev-professor" height="30" width="40" /></a>
-<a href="https://instagram.com/sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sveltruffian" height="30" width="40" /></a>
-<a href="https://dribbble.com/sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sveltruffian" height="30" width="40" /></a>
-<a href="https://medium.com/@sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sveltruffian" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucjcr_jdugkxypwx46uk1uag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjcr_jdugkxypwx46uk1uag" height="30" width="40" /></a>
-<a href="https://discord.gg/SveltRuffian#1728" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SveltRuffian#1728" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/-cara-bennett-dev-professor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cara-bennett-dev-professor" height="30" width="40" /></a>
+  <a href="https://twitter.com/sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sveltruffian" height="30" width="40" /></a>
+  <a href="https://instagram.com/sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sveltruffian" height="30" width="40" /></a>
+  <a href="https://discord.gg/SveltRuffian#1728" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SveltRuffian#1728" height="30" width="40" /></a>
+  <a href="https://codepen.io/@sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sveltruffian" height="30" width="40" /></a>
+  <a href="https://dev.to/sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sveltruffian" height="30" width="40" /></a>
+  <a href="https://dribbble.com/sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sveltruffian" height="30" width="40" /></a>
+  <a href="https://medium.com/@sveltruffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sveltruffian" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucjcr_jdugkxypwx46uk1uag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjcr_jdugkxypwx46uk1uag" height="30" width="40" /></a>
 </p>
 
 ***
