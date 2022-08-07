@@ -1,7 +1,7 @@
 ![LinkedIn Banner](https://user-images.githubusercontent.com/103402952/183265424-f5b13d7d-2135-4af7-bf6d-45d6fb5d9f32.png)
 <h1> </h1>
 <h1 align="center">Hello there 👋🏾, I'm Cara!</h1>
-<p align="center"> <img src="https://sdk.bitmoji.com/render/panel/5e845383-93bc-40c1-bdde-3574c1b7c810-b3ad5a79-3b8d-4798-91c1-f2888c70a560-v1.png?transparent=1&palette=1"/><a href="https://app.daily.dev/SveltRuffian"><img src="https://api.daily.dev/devcards/699c5639791d40d88e28b72efa47acbf.png?r=uk9" width="200" alt="Cara's Dev Card"/></a></p>
+<p align="center"> <a href="https://app.daily.dev/SveltRuffian"><img src="https://api.daily.dev/devcards/699c5639791d40d88e28b72efa47acbf.png?r=uk9" width="200" alt="Cara's Dev Card"/></a></p>
 <h1> </h1>
 <h3 align="center">A passionate ❤️‍🔥💻M.E.R.N.-Stack Software Engineer from New Jersey.</h3>
 <h1> </h1>
