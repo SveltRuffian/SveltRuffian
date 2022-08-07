@@ -8,6 +8,7 @@
 
   - 🧠 💪🏾I’m currently learning **responsive CSS, JavaScript, & Shopify Development**
   - 🤙🏾💬🖥️ How to reach me [**Calendly**](https://calendly.com/professor-bennett/meeting-with-cara-bennett-dev)
+  - 🤝🏾I routinely offer support to small B.O.B.s
   - 🏀 Fun fact **I referee high school basketball**
 
 ***
