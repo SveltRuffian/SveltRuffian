@@ -46,7 +46,7 @@
   
 ***
 
-<h2>🏆 Github Stats</h2>
+<h2 align="center">🏆 Github Stats</h2>
 <p align="center" dir="auto">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sveltruffian&theme=dark&show_icons=true&locale=en" style="max-width:100%" alt="sveltruffian" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sveltruffian&theme=dark&langs_count=10" style="max-width:100%" alt="sveltruffian" />   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sveltruffian&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" style="max-width:100%" alt="sveltruffian" /></p>
